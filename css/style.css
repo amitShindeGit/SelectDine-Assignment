@@ -1,0 +1,252 @@
+html{                                /*I have spaced every different sections so that you won't have difficulty reading my css code */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 50px;
+    color: white;
+    line-height: 100px;
+    text-align: center;
+    background: green;
+    margin-left: 30px;
+}
+#username{
+    margin-top: -38px;
+}
+header{
+    background-image: url(../green.png.png);
+    height: 120vh;
+    background-size: cover;
+    background-position: center;
+}
+.main{
+    display: table-header-group;
+    line-height: 50px;
+}
+.main:hover{
+    background-color: green;
+    color: #000;
+}
+ul li{
+    display: table-header-group;
+    line-height: 50px;
+}
+ul li a{
+    text-decoration: none;
+    color: #000;
+    padding: 10px 5px;
+    border: 1px solid #ffffff;   
+}
+
+ul li a:hover{
+    background-color: green;
+    color: #000;
+}
+nav{
+    width: 15%;
+    height: 115vh;
+    background: white;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.upperside{
+    width: 80%;
+    height: 27vh;
+    background: white;
+    float: right;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+div.upperside{
+    border-radius: 10px;
+}
+#boxes{
+    content: "";
+    display: table;
+    clear: both;
+}
+#streams{
+    float: left;
+    height: 400px;
+    width: 200px;
+    padding: 0 80px;
+}
+#newsubsciber{
+    float: left;
+    height: 400px;
+    width: 200px;
+    padding: 0 1px;
+    margin-left: 30px;
+}
+#engagement{
+    float: left;
+    height: 400px;
+    width: 200px;
+    padding: 0 1px;
+}
+#averagetime{
+    float: left;
+    height: 400px;
+    width: 200px;
+    padding: 0 1px;
+}
+
+.middle{
+    width: 50%;
+    height: 50vh;
+    background: white;
+    float: right;
+    margin-top: 30px;
+    margin-right: 500px;
+}
+div.middle{
+    border-radius: 10px;
+}
+#audience{
+    float: left;
+    height: 400px;
+    width: 200px;
+    padding: 0 50px;
+    margin-left: 30px;
+}
+.green{
+    color: green;
+}
+.grey{
+    color: grey;
+}
+.graph{
+    width: 15%;
+    margin-left: 90px;
+    margin-top: -200px;
+    float: left;
+}
+
+.rightuppercorner{
+    width: 25%;
+    height: 30vh;
+    background: white;
+    float: right;
+    margin-top: -360px;
+    margin-right: 50px;
+}
+div.rightuppercorner{
+    border-radius: 10px;
+}
+.satisfaction{
+    float: left;
+    height: 400px;
+    width: 200px;
+    padding: 0 50px;
+    margin-left: -30px;
+}
+.tab{
+    color: grey;
+}
+.url{
+    text-decoration: none;
+    color: grey;
+    padding: 0px 5px;
+    border: 1px solid black;   
+}
+.url:hover{
+    background-color: grey;
+    color: black;
+}
+.meter{
+    width: 1%;
+    margin-right: 400px;
+    margin-top: -300px;
+    float: right;
+}
+
+.rightlowercorner{
+    width: 25%;
+    height: 45vh;
+    background: green;
+    float: right;
+    margin-top: -100px;
+    margin-right: 50px;
+}
+div.rightlowercorner{
+    border-radius: 10px;
+}
+.adinfo{
+    float: left;
+    height: 400px;
+    width: 200px;
+    padding: 0 50px;
+    margin-left: -30px;
+}
+.tab2{
+    color: white;
+}
+.url2{
+    text-decoration: none;
+    color: white;
+    padding: 0px 5px;
+    border: 1px solid grey;   
+}
+.url2:hover{
+    background-color: yellow;
+    color: grey;
+}
+
+.brief{
+    height: 100px;
+    width: 300px;
+    float: left;
+    color: white;
+}
+.url3{
+    text-decoration: none;
+    color: white;
+    padding: 0px 5px;
+    border: 0px solid grey;
+}
+.url3:hover{
+    color: yellow;
+}
+
+.middlelower{
+    width: 50%;
+    height: 30vh;
+    background: white;
+    float: right;
+    margin-top: -200px;
+    margin-right: 500px;
+}
+div.middlelower{
+     border-radius: 10px;
+}
+.popuepisods{
+    float: left;
+    height: 400px;
+    width: 200px;
+    padding: 0 50px;
+    margin-left: 30px;
+}
+.tab4{
+    color: grey;
+}
+.url4{
+    text-decoration: none;
+    color: green;
+    padding: 0px 5px;
+    border: 0px solid grey;
+}
+.url4:hover{
+    color: darkgreen;
+}
+
+
+
+
+
+
